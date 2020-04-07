@@ -834,9 +834,9 @@ div[data-type="c9-blocks/horizontal-tabs"] .c9-horizontal-tabs .tab-content [dat
 
 div[data-type="c9-blocks/horizontal-tabs"] .c9-horizontal-tabs .nav-item {
   position: relative;
-  -webkit-transition: 0.15s border-color, 0.15s background-color, 0.15s opacity;
-  -o-transition: 0.15s border-color, 0.15s background-color, 0.15s opacity;
-  transition: 0.15s border-color, 0.15s background-color, 0.15s opacity; }
+  -webkit-transition: 0.15s border-color, 0.15s background-color, 0.15s opacity;
+  -o-transition: 0.15s border-color, 0.15s background-color, 0.15s opacity;
+  transition: 0.15s border-color, 0.15s background-color, 0.15s opacity; }
   div[data-type="c9-blocks/horizontal-tabs"] .c9-horizontal-tabs .nav-item:not(:hover) > .c9-component-remove-button {
     opacity: 0; }
 
